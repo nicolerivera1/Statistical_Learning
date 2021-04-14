@@ -1,2 +1,3 @@
-# Statistical_Learning
-Documentos y códigos relacionados con el curso Aprendizaje Estadistico 2021-1 de la Universidad de Antioquia.
+# Statistical Learning
+
+All documents and code from the course _Aprendizaje Estadistico_ during the 2021-1 period. 
